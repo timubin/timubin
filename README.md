@@ -13,7 +13,6 @@ Intro & Achievements
 Expertise / Skill Sets
 ---------------------
 ☛ WordPress & WooCommerce Expert
-☛ eCommerce & Shopify Expert
 ☛ Bootstrap coded responsive PSD to HTML/Bootstrap
 ☛ Custom Javascript designed custom plugin
 ☛ Jquery Plugin integration
