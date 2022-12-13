@@ -13,13 +13,10 @@ Intro & Achievements
 Expertise / Skill Sets
 ---------------------
 ☛ WordPress & WooCommerce Expert
+☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT,JQUERY,REACT JS,PHP,LARAVEL, WordPress Bug/ Error Fixing.
 ☛ Bootstrap coded responsive PSD to HTML/Bootstrap
-☛ Custom Javascript designed custom plugin
 ☛ Jquery Plugin integration
-☛ Click Funnel & Sales Funnel Expert
 ☛ PSD TO HTML/ HTML TO WordPress
-☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
-☛ Google ads, Facebook ads, eCommerce marketing & Search Engine Marketing(SEM) Expert
 ☛ Search Engine Optimisation (SEO), On page SEO & Off-page SEO Expert
 ☛ eCommerce Expert
 ☛ Website Maintenance & Website Optimization
@@ -30,10 +27,10 @@ Contact Me
 ---------------------
 ☛ email: mubin3242@gmail.com
 ☛ Phone: 01799238826(Whats app)
-☛ Website: www.timubin.xyz
+☛ Website: https://timubin.com/
 ☛ Facebook: http://facebook.com/Tarikulislammubin
 
-Skills:  HTML / CSS/BOOTSTRAP/JQUERY/WordPress / REACT / JS /
+Skills: HTML, CSS. BOOTSTRAP, JAVASCRIPT,JQUERY,REACT JS,PHP,LARAVEL, WordPress 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React js 
