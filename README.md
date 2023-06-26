@@ -8,7 +8,7 @@ Experienced WordPress web developer with essential knowledge of JavaScript, Reac
 - E-mail: tarikulislammubin@gmail.com
 - Website: [timubin.com](https://timubin.com)
 - GitHub: [timubin](https://github.com/timubin)
-- Address: 192/Matikata Dhaka, Cantonment
+
 
 ## Experience
 
