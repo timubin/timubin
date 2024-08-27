@@ -6,8 +6,8 @@ Experienced WordPress web developer with essential knowledge of JavaScript, Reac
 ## Contact Information
 - **Contact No:** 01799238826
 - **E-mail:** tarikulislammubin@gmail.com
-- **Website:** [timubin.com](https://timubin.com)
-- **GitHub:** [timubin](https://github.com/timubin)
+- **Website:** [timubin.com](https://timubin.github.io/me/)
+
 
 
 ## Experience
