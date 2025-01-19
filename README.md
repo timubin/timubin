@@ -115,12 +115,6 @@ I’m a passionate web developer with expertise in **PHP, Laravel, WordPress**, 
 - ✅ Experience working in teams and independently to meet project deadlines.  
 - ✅ Passionate about learning new technologies and adapting to challenges.  
 
----
-
-## 📈 **GitHub Stats**  
-*(You can add GitHub stats using tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=timubin&show_icons=true&theme=radical)  
 
 ---
 
